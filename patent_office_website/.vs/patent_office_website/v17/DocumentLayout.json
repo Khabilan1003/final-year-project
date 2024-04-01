@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\khabi\\Downloads\\Projects\\Patent Management System - Main Project\\patent_office_website\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\khabi\\Downloads\\Projects\\Patent Management System - Main Project\\patent_office_website\\src\\Components\\navbar.jsx||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Components\\navbar.jsx||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\khabi\\Downloads\\Projects\\Patent Management System - Main Project\\patent_office_website\\src\\Components\\patent_card.jsx||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Components\\patent_card.jsx||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\khabi\\Downloads\\Projects\\Patent Management System - Main Project\\patent_office_website\\src\\Components\\validate_dialog.jsx||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Components\\validate_dialog.jsx||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\khabi\\Downloads\\Projects\\Patent Management System - Main Project\\patent_office_website\\src\\Pages\\home.jsx||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Pages\\home.jsx||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\khabi\\Downloads\\Projects\\Patent Management System - Main Project\\patent_office_website\\src\\Pages\\patents.jsx||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Pages\\patents.jsx||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\khabi\\Downloads\\Projects\\Patent Management System - Main Project\\patent_office_website\\src\\Pages\\login.jsx||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Pages\\login.jsx||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\khabi\\Downloads\\Projects\\Patent Management System - Main Project\\patent_office_website\\src\\App.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "navbar.jsx",
+              "DocumentMoniker": "C:\\Users\\khabi\\Downloads\\Projects\\Patent Management System - Main Project\\patent_office_website\\src\\Components\\navbar.jsx",
+              "RelativeDocumentMoniker": "src\\Components\\navbar.jsx",
+              "ToolTip": "C:\\Users\\khabi\\Downloads\\Projects\\Patent Management System - Main Project\\patent_office_website\\src\\Components\\navbar.jsx",
+              "RelativeToolTip": "src\\Components\\navbar.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-03-06T15:39:41.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "patent_card.jsx",
+              "DocumentMoniker": "C:\\Users\\khabi\\Downloads\\Projects\\Patent Management System - Main Project\\patent_office_website\\src\\Components\\patent_card.jsx",
+              "RelativeDocumentMoniker": "src\\Components\\patent_card.jsx",
+              "ToolTip": "C:\\Users\\khabi\\Downloads\\Projects\\Patent Management System - Main Project\\patent_office_website\\src\\Components\\patent_card.jsx",
+              "RelativeToolTip": "src\\Components\\patent_card.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-03-06T15:39:40.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "validate_dialog.jsx",
+              "DocumentMoniker": "C:\\Users\\khabi\\Downloads\\Projects\\Patent Management System - Main Project\\patent_office_website\\src\\Components\\validate_dialog.jsx",
+              "RelativeDocumentMoniker": "src\\Components\\validate_dialog.jsx",
+              "ToolTip": "C:\\Users\\khabi\\Downloads\\Projects\\Patent Management System - Main Project\\patent_office_website\\src\\Components\\validate_dialog.jsx",
+              "RelativeToolTip": "src\\Components\\validate_dialog.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-03-06T15:39:36.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "patents.jsx",
+              "DocumentMoniker": "C:\\Users\\khabi\\Downloads\\Projects\\Patent Management System - Main Project\\patent_office_website\\src\\Pages\\patents.jsx",
+              "RelativeDocumentMoniker": "src\\Pages\\patents.jsx",
+              "ToolTip": "C:\\Users\\khabi\\Downloads\\Projects\\Patent Management System - Main Project\\patent_office_website\\src\\Pages\\patents.jsx",
+              "RelativeToolTip": "src\\Pages\\patents.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-03-06T15:39:11.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "home.jsx",
+              "DocumentMoniker": "C:\\Users\\khabi\\Downloads\\Projects\\Patent Management System - Main Project\\patent_office_website\\src\\Pages\\home.jsx",
+              "RelativeDocumentMoniker": "src\\Pages\\home.jsx",
+              "ToolTip": "C:\\Users\\khabi\\Downloads\\Projects\\Patent Management System - Main Project\\patent_office_website\\src\\Pages\\home.jsx",
+              "RelativeToolTip": "src\\Pages\\home.jsx",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAABYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-03-06T15:39:07.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "login.jsx",
+              "DocumentMoniker": "C:\\Users\\khabi\\Downloads\\Projects\\Patent Management System - Main Project\\patent_office_website\\src\\Pages\\login.jsx",
+              "RelativeDocumentMoniker": "src\\Pages\\login.jsx",
+              "ToolTip": "C:\\Users\\khabi\\Downloads\\Projects\\Patent Management System - Main Project\\patent_office_website\\src\\Pages\\login.jsx",
+              "RelativeToolTip": "src\\Pages\\login.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-03-06T15:39:01.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.js",
+              "DocumentMoniker": "C:\\Users\\khabi\\Downloads\\Projects\\Patent Management System - Main Project\\patent_office_website\\src\\App.js",
+              "RelativeDocumentMoniker": "src\\App.js",
+              "ToolTip": "C:\\Users\\khabi\\Downloads\\Projects\\Patent Management System - Main Project\\patent_office_website\\src\\App.js",
+              "RelativeToolTip": "src\\App.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-06T15:38:49.78Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
